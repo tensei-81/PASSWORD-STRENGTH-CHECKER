@@ -17,14 +17,10 @@ Requirements
 
 How to Run
     1. Clone the repository:
-bash
-CopyEdit
 git clone https://github.com/tensei-81/PASSWORD-STRENGTH-CHECKER
 cd PASSWORD-STRENGTH-CHECKER
     2. Run the application:
-bash
-CopyEdit
-python password_strength2.py
+python3 password_strength2.py
 
 How It Works
     • Passwords are evaluated based on:
